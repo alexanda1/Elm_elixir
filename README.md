@@ -1,5 +1,10 @@
 # ElmStarter
 
+## Requirements
+* Elm https://guide.elm-lang.org/install.html
+* Elixir https://elixir-lang.org/install.html
+* Phoenix http://www.phoenixframework.org/docs/installation
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
