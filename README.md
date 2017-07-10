@@ -4,9 +4,12 @@
 * Elm https://guide.elm-lang.org/install.html
 * Elixir https://elixir-lang.org/install.html
 * Phoenix http://www.phoenixframework.org/docs/installation
+* Postgres
 
+## Run instructions
 To start your Phoenix app:
 
+  * Update the credentials in config/dev.exs for your postgres installation
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Install Node.js dependencies with `npm install`
